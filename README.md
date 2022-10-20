@@ -2,10 +2,11 @@
 
 ✨ About Me ✨
 
-I"m having 3+ years of experience in sales marketing and analytics domain, Data Analysis and I like to learning new skills.
-I self-taught SQL and Microsoft Power-BI,Advance excel .
+I"m having 3+ years of experience in sales marketing and analytics domain, Data Analysis company ExtraMarks, Byjus, Unacademy 
+and I like to learning new skills.
+I self-taught SQL and Microsoft Power-BI,Advance excel and also like to play with data.
 
-How to find me: Linkedin
+How to find me: [Linkedin](https://www.linkedin.com/in/farazahmad25/)
 
 
 💡 Skills 💡:
