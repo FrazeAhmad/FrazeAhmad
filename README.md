@@ -2,7 +2,7 @@
 
 ✨ About Me ✨
 
-I"m having 3+ years of experience in sales marketing and analytics domain, Data Analysis company ExtraMarks, Byjus, Unacademy 
+I"m having 3+ years of experience in sales marketing and analytics domain, Data Analysis company [ExtraMarks](https://www.extramarks.com/), [Byjus](https://byjus.com/), [Unacademy](https://www.extramarks.com/) 
 and I like to learning new skills.
 I self-taught SQL and Microsoft Power-BI,Advance excel and also like to play with data.
 
@@ -19,6 +19,7 @@ Leadsquared (CRM TOOL)
 Nimbus(CRM TOOL)
 
 📚 Courses and Certifications 📚
+
 Secured 5 stars in Hacker rank in MySQL.
 SQL course Great-learning
 Business Analytic Fundamentals upGrad   
