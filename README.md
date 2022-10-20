@@ -4,7 +4,10 @@
 
 I"m having 3+ years of experience in sales marketing and analytics domain, Data Analysis and I like to learning new skills.
 I self-taught SQL and Microsoft Power-BI,Advance excel .
+
 How to find me: Linkedin
+
+
 💡 Skills 💡:
 MY-SQL
 Python
