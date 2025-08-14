@@ -1,5 +1,1 @@
-👋 Hi, I’m **@FrazeAhmad**👋
-
-✨ About Me ✨
-
-I"m having years of experience in sales marketing and analytics domain, Data Analysis in Ed-tech domain
+Senior Business Analyst with 5+ years of exp. in SQL, MySQL, Power BI, Python, Big Query, Excel, Google Sheet, Airflow, GTM, Google Analytics, Looker, AWS Redshift, GCP, Metabase, Data Visualization, A/B Testing.
